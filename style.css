@@ -4,7 +4,7 @@ body {
   color: #191970; /* Warna teks utama (Biru Gelap) */
 }
 
-.kartu-propil {
+.profil {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah. auto menengahkan kiri/kanan */
   padding: 20px; 
@@ -13,7 +13,7 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
   text-align: center; /* Menengahkan semua teks di dalamm karti */
 
-  .kartu-provil img {
+  .profil {
     width: 150px;
     border-radiun: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
   
